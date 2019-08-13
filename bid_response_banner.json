@@ -1,0 +1,43 @@
+{
+    "id": "1a7e8897-7054-42cb-beae-14a6dd0fc140",
+    "bidid": "imp_5d529bc9e4b0ae6e67d5fe9e",
+    "cur": "USD",
+    "seatbid": [
+        {
+            "seat": "6696",
+            "group": 0,
+            "bid": [
+                {
+                    "id": "gb_3",
+                    "impid": "395060be-12ab-4456-adaf-ab641c4ebadc",
+                    "price": 4.0,
+                    "adid": "1698",
+                    "nurl": "http://rtb.gamoshi.io/pix/1274/win_notice/imp_5d529bc9e4b0ae6e67d5fe9e/im.gif?r=imp_5d529bc9e4b0ae6e67d5fe9e&i=395060be-12ab-4456-adaf-ab641c4ebadc&a=1698&b=gb_3&p=${AUCTION_PRICE}",
+                    "adomain": [],
+                    "bundle": "",
+                    "iurl": "http://static.gambid.io/dashboard/customers/153/images/2c8524976675047cf3b21dcd1830b1e1.png",
+                    "adm": "<img src=\"http://static.gambid.io/dashboard/customers/153/images/2c8524976675047cf3b21dcd1830b1e1.png\" width=\"300px\"><img src=\"http://rtb.gamoshi.io/pix/1274/imp/imp_5d529bc9e4b0ae6e67d5fe9e/im.gif?r=imp_5d529bc9e4b0ae6e67d5fe9e&i=395060be-12ab-4456-adaf-ab641c4ebadc&a=1698&b=gb_3\" alt=\" \" style=\"display:none\"/>",
+                    "cid": "6696",
+                    "crid": "1698",
+                    "cat": [],
+                    "attr": [],
+                    "h": 250,
+                    "w": 300,
+                    "ext": {
+                        "imptrackers": [
+                            "http://rtb.gamoshi.io/pix/1274/imp/imp_5d529bc9e4b0ae6e67d5fe9e/im.gif?r=imp_5d529bc9e4b0ae6e67d5fe9e&i=395060be-12ab-4456-adaf-ab641c4ebadc&a=1698&b=gb_3"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "ext": {
+        "utrk": [
+            {
+                "type": "image",
+                "url": "http://rtb.gamoshi.io/pix/1274/scm?cb=1565694921928"
+            }
+        ]
+    }
+}
