@@ -1,0 +1,29 @@
+{
+    "id": "1a7e8897-7054-42cb-beae-14a6dd0fc140",
+    "site": {
+        "domain": "demo.gamotest.com",
+        "page": "http://demo.gamotest.com/publishers/demo/index.html",
+        "ref": ""
+    },
+    "device": {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
+        "ip" : "3.0.0.0"
+    },
+    "imp": [
+        {
+            "id": "395060be-12ab-4456-adaf-ab641c4ebadc",
+            "instl": 0,
+            "tagid": "banner-unit",
+            "bidfloor": 0,
+            "bidfloorcur": "USD",
+            "secure": 0,
+            "banner": {
+                "w": 300,
+                "h": 250,
+                "pos": 0,
+                "topframe": 0
+            }
+        }
+    ],
+    "ext": {}
+}
